@@ -19,7 +19,7 @@
 ### Решение 2
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_5.png)
-
+![alt text(https://github.com/sharvik22/1md/blob/main/images/2-1.png)
 
 ## Дополнительные задания со звёздочкой*
 
