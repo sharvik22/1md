@@ -27,10 +27,16 @@
 ### Файл конфигурации
 ![alt text](https://github.com/sharvik22/1md/blob/main/images/2-6.png)
 
-
-![alt text](https://github.com/sharvik22/1md/blob/main/images/2-1.png)
+### Порт не доступен 
 ![alt text](https://github.com/sharvik22/1md/blob/main/images/2-2.png)
+
+### Переключение на BACKUP
+![alt text](https://github.com/sharvik22/1md/blob/main/images/2-1.png)
+
+### Файл не доступен 
 ![alt text](https://github.com/sharvik22/1md/blob/main/images/2-3.png)
+
+### Переключение на BACKUP
 ![alt text](https://github.com/sharvik22/1md/blob/main/images/2-4.png)
 
 
