@@ -17,9 +17,11 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 ------
 ### Решение 2
-MASTER - 192.168.1.114
-BACKUP - 192.168.1.115
-VIRTUAL IP - 192.168.1.200
+#MASTER - 192.168.1.114
+#BACKUP - 192.168.1.115
+#VIRTUAL IP - 192.168.1.200
+
+
 
 ![alt text](https://github.com/sharvik22/1md/blob/main/images/2-1.png)
 ![alt text](https://github.com/sharvik22/1md/blob/main/images/2-2.png)
