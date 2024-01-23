@@ -8,6 +8,10 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 -------
 ### Решение 1
+![alt text](https://github.com/sharvik22/1md/blob/main/images/1-1.png)
+![alt text](https://github.com/sharvik22/1md/blob/main/images/1-2.png)
+![alt text](https://github.com/sharvik22/1md/blob/main/images/1-3.png)
+
 
 ### Задание 2
 - Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного [файла](1/keepalived-simple.conf).
